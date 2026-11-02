@@ -5,10 +5,12 @@
 I'm a Computer Science student passionate about programming, problem-solving, and exploring new technologies.
 
  👩‍💻 About Me
-- 🎓 Pursuing B.Tech in Computer Science.
-- 💻 Programming in Python and C++.
-- 🧩 Practising Data Structures and Algorithms.
-- 🚀 Interested in software development and problem-solving.
+- 🎓 Pursuing B.Tech in Computer Science (AI & ML)
+- 💻 Learning C++ and Data Structures & Algorithms
+- 🧩 Practising problem-solving on LeetCode
+- 🚀 Building projects and exploring Web Development
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🌱 Always learning and improving my skills
 
  🛠️ Tech Stack
 - Languages: Python, C++
