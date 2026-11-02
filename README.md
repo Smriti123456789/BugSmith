@@ -1,4 +1,4 @@
-# Hi there, I'm Smriti Jha! 👋
+Hi, I'm Smriti! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BC8CF2&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;C%2B%2B+%7C+DSA+Enthusiast;Exploring+AI%2FML+%26+Web+Development;Building+Projects+and+Learning+Every+Day" />
@@ -20,10 +20,33 @@ I'm a Computer Science student passionate about programming, problem-solving, an
 - Languages: Python, C++
 - Core Concepts: Data Structures & Algorithms
 
+🛠️ Languages & Tools
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+</p>
+
+
  📚 Currently Exploring
 - Advanced DSA concepts
 - Problem-solving techniques
 - Software development
+
+🚀 Featured Projects
+
+- 📚 StudyFlow – A student study planner and productivity website.
+- 💻 DSA in C++ – My Data Structures and Algorithms practice.
+
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
 
  🎯 Goals
 - Strengthen my programming skills.
