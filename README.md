@@ -38,16 +38,6 @@ I'm a Computer Science student passionate about programming, problem-solving, an
 - 📚 StudyFlow – A student study planner and productivity website.
 - 💻 DSA in C++ – My Data Structures and Algorithms practice.
 
-<h3 align="center">📊 GitHub Statistics</h3>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
-
  🎯 Goals
 - Strengthen my programming skills.
 - Build real-world projects.
