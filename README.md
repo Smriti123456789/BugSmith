@@ -13,8 +13,8 @@ I'm a Computer Science student passionate about programming, problem-solving, an
 - 💻 Learning C++ and Data Structures & Algorithms
 - 🧩 Practising problem-solving on LeetCode
 - 🚀 Building projects and exploring Web Development
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🌱 Always learning and improving my skills
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🌱 Always learning and improving my skills.
 
  🛠️ Tech Stack
 - Languages: Python, C++
